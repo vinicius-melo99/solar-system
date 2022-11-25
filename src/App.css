@@ -10,3 +10,12 @@ body {
   padding: 50px 2%;
   text-align: center;
 }
+
+.planetCard {
+  height: 100px;
+  width: 150px;
+}
+
+.solar-system {
+  display: flex;
+}
